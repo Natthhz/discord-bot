@@ -46,3 +46,5 @@ The current functionality focuses on analyzing uploaded images within a server.
 3. Create a `config.json` or `.env` file and insert your Discord bot token (in this case, for the token is located in bot2.js).
 
 4. Run the bot:
+
+FYI: maybe I forgot a bit about the how to operate it because this was made and abandoned 2-3 years ago
